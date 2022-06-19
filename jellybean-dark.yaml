@@ -1,0 +1,18 @@
+scheme: "Jellybean dark"
+author: "Meskarune, base16ified johan1a" # https://gist.github.com/meskarune/52703855720848586ec869adaeb1ed46
+base00: "1c1c1c" # ----
+base01: "d75f5f" # ---
+base02: "72a25a" # --
+base03: "99ad6a" # -
+base04: "597bc5" # +
+base05: "8787af" # ++
+base06: "4a8382" # +++
+base07: "adadad" # ++++
+base08: "3b3b3b" #
+base09: "ffb964" #
+base0A: "99ad6a" # 10
+base0B: "99ad6a" # 11
+base0C: "8197bf" # 12
+base0D: "d7afff" # 13
+base0E: "8fbfdc" # 14
+base0F: "e8e8de" # 15
